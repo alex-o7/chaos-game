@@ -33,7 +33,7 @@ $$v_1 = (0, 1), \quad v_2 = \left(\cos\frac{7\pi}{6}, \sin\frac{7\pi}{6}\right),
 ## Project Structure
 
 ```
-sierpinski-chaos/
+chaos-game/
 ├── README.md          # This file
 ├── requirements.txt   # Python dependencies
 ├── .gitignore         # Files excluded from version control
